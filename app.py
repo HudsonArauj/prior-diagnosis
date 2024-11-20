@@ -1,5 +1,4 @@
 import streamlit as st
-from llama_index.core import SimpleDirectoryReader
 from llama_parse import LlamaParse
 from utils import formated_docs, chain_structured_invoke, chain_diagnostico, convert_to_float, convert_to_int
 from PyPDF2 import PdfReader
