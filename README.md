@@ -2,6 +2,7 @@
 
 ## Descrição
 
+Ferramenta de diagnóstico de doenças a partir de exame de sangue.
 
 ## Architecture
-<img src="./img/image.png" width="400" height="250">
+<img src="./img/image.png" width="600" height="350">

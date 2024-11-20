@@ -15,7 +15,7 @@ import plotly.graph_objects as go
 
 st.markdown(
     """
-    ## Gera diagnóstico de exames de sangue a partir de arquivos PDF.
+    ## Diagnóstico prévio.
     """,
     unsafe_allow_html=True
 )
