@@ -37,6 +37,8 @@ llm = ChatOpenAI(
 
 
 class GetSchema(BaseModel):
+    class Config:
+        arbitrary_types_allowed = True
     """Extrai valores relevantes de um documento de exame médico de hemograma"""
     idade: str = Field(description="Valor numérico de idade")
     sexo: str = Field(description="Valor de sexo")
