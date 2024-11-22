@@ -69,7 +69,7 @@ A funcionalidade de análise de gasometria visa abordar um exame frequentemente 
 
 2. Acesse o diretório do projeto:
    ```bash
-   cd analise-hemogramas
+   cd prior-diagnosis
    ```
 3. Instale as dependências:
    ```bash
