@@ -4,7 +4,7 @@
 ## Arquitetura
 <img src="./img/image.png" width="600" height="350">
 
-## Clique no video da aplicação
+## Clique no video abaixo da aplicação
 [![Assista o Vídeo](./img/image_2.jpeg)](https://youtu.be/DAr3mveDe10)
 
 # Análise Inteligente de Exames de Hemograma
